@@ -185,6 +185,6 @@ Python & scikit-learn
 
 👨‍💻 Author
 
-Pankaj
+Choudhary Pankaj
 🎓 Data Science Student
 🔗 GitHub: https://github.com/choxdrypankaj
