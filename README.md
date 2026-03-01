@@ -1,4 +1,4 @@
-# 🏠 Boston House Price Prediction
+# 🏠 HOUSE PRIZE PREDICTIN -MODEL
 
 A Machine Learning project that predicts the median value of owner-occupied homes in Boston suburbs using regression algorithms.
 
